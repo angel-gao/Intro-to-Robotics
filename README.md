@@ -43,7 +43,7 @@ This section demonstrates the path following using a PID controller. The robot e
 
 ---
 
-## 4. Kalman Filter for Localization
+## [4. Kalman Filter for Localization](https://github.com/angel-gao/Intro-to-Robotics/tree/main/4.%20Kalman%20Filter%20for%20Localization/nodes)
 
 This section implements an Extended Kalman Filter (EKF) for robot 1D localization.
 
