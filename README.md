@@ -1,14 +1,10 @@
 # Introduction to Robotics
 
-Welcome to the **Introduction to Robotics** repository! This repository contains a series of robotics projects and implementations focused on controlling and localizing a robot in various scenarios. These projects are built around the Turtlebot 3 Waffle Pi robot and demonstrate concepts such as basic movement, pose-to-pose control, path following, and advanced localization using Bayesian tracking and Kalman filters.
+This repository contains a series of robotics labs and a final project which focused on controlling and localizing a robot in various scenarios. These projects are built around the Turtlebot 3 Waffle Pi robot and demonstrate concepts such as basic movement, pose-to-pose control, path following, and advanced localization using Bayesian tracking and Kalman filters.
 
-## Table of Contents
-
-1. [Robot Basic Movement](#1-robot-basic-movement)
-2. [Pose-to-Pose Control](#2-pose-to-pose-control)
-3. [Path Following](#3-path-following)
-4. [Kalman Filter for Localization](#4-kalman-filter-for-localization)
-5. [Final Project: Bayesian Tracking for Localization](#5-final-project-bayesian-tracking-for-localization)
+- Equipments: Turtlebot 3 Waffle Pi and the operating system ROS.
+- Main components: Raspberry Pi with an OpenCR board, a Raspberry Pi camera, a 360-degree lidar unit, an IMU, a compass and a gyroscope.
+- Langurage: Python using rospy library
 
 ---
 
