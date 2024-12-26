@@ -28,5 +28,7 @@ catkin_package(
 ################################################################################
 catkin_install_python(PROGRAMS
   nodes/lab2.py
+  nodes/motor.py
+  nodes/odometry.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
