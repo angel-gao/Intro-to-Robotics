@@ -56,7 +56,7 @@ This section implements an Extended Kalman Filter (EKF) for robot 1D localizatio
 
 ## 5. Final Project: Bayesian Tracking for Localization
 
-The final project simulates a mail delivery route in a lab environment. The Turtlebot 3 Waffle Pi robot loops along a track and delivers to 12 different offices, represented by four different colour patches (blue, orange, yellow, and green). For detailed project process, please refer to the [Project Report] (https://github.com/angel-gao/Intro-to-Robotics/blob/main/final_project_report.pdf). 
+The final project simulates a mail delivery route in a lab environment. The Turtlebot 3 Waffle Pi robot loops along a track and delivers to 12 different offices, represented by four different colour patches (blue, orange, yellow, and green). For detailed project process, please refer to the [Project Report](https://github.com/angel-gao/Intro-to-Robotics/blob/main/Final_project-Mail%20Delivery%20Bot%20Bayesian%20Tracking/project%20report.pdf). 
 
 ### Key Features:
 - **Color Recognition:** The robot uses a front-mounted camera to recognize colour patches.
