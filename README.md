@@ -31,7 +31,7 @@ The robot is given a target position and moves between poses using precise mathe
 
 ---
 
-## 3. Path Following
+## [3. Path Following](https://github.com/angel-gao/Intro-to-Robotics/tree/main/3.%20Path%20Following/nodes)
 
 This section demonstrates the path following using a PID controller. The robot executes a closed-circuit race course using input from a camera.
 
