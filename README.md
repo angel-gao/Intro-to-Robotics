@@ -8,7 +8,7 @@ This repository contains a series of robotics labs and a final project which foc
 
 ---
 
-## 1. [Robot Basic Movement](https://github.com/angel-gao/Intro-to-Robotics/tree/main/1.%20Robot%20Basic%20Movement/nodes)
+## [1. Robot Basic Movement](https://github.com/angel-gao/Intro-to-Robotics/tree/main/1.%20Robot%20Basic%20Movement/nodes)
 
 This section contains code to control the robot's basic movements, such as:
 
@@ -21,7 +21,7 @@ This section contains code to control the robot's basic movements, such as:
 
 ---
 
-## 2. Pose-to-Pose Control
+## [2. Pose-to-Pose Control](https://github.com/angel-gao/Intro-to-Robotics/tree/main/2.%20Pose%20to%20Pose%20Control/nodes)
 
 The robot is given a target position and moves between poses using precise mathematical calculations.
 
